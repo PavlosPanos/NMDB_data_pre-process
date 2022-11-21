@@ -4,7 +4,7 @@ Python Script that edits and adds the NMDB stations' data into a .xlsx file to b
 
 How to use the NMDB_Data_to_EXCEL script
 
-1st Step  : visit https://www.nmdb.eu/nest/ and choose the desired stations/dates/resolution and choose Ascii as output \n
+1st Step  : visit https://www.nmdb.eu/nest/ and choose the desired stations/dates/resolution and choose Ascii as output 
 2nd Step  : Copy all the data - begining from the first row that has the stations names - and paste them into the NMDB_Data.txt file contained in this folder
 (An example of how the data need to be copied is already writen in the txt)
 3rd Step  : Open the NMDB_Data_to_EXCEL.py using spyder (in the future there will also be a .exe file that will automaticaly run)
